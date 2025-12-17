@@ -21,13 +21,13 @@
 const dwiky = {
     role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
-    obsession: ["Immersive UI", "AI Agents", "Performance"],
+    focus: ["3D Web Graphics", "AI Integration", "Performance Optimization"],
     stack: {
         frontend: ["React", "Next.js", "TypeScript"],
         graphics: ["Three.js", "WebGL", "GSAP"],
         ai: ["LangChain", "OpenAI", "Groq"]
     },
-    mission: "Crafting digital experiences that feel somewhat like magic. ✨"
+    funFact: "I turn coffee into immersive web experiences ☕ → 🎨"
 };
 ```
 
@@ -82,6 +82,45 @@ A cutting-edge portfolio featuring an intelligent AI assistant and real-time flu
 
 ---
 
+## 🎨 Code Philosophy
+
+```javascript
+class Developer {
+    constructor() {
+        this.name = "Dwiky Candra";
+        this.mindset = "Always learning, always building";
+        this.approach = [
+            "Write clean, maintainable code",
+            "Performance matters, but so does readability",
+            "User experience is paramount",
+            "Experiment with new technologies"
+        ];
+    }
+
+    createMagic() {
+        return this.passion + this.skills + this.creativity;
+    }
+}
+```
+
+---
+
+## 🏅 Skills Matrix
+
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Frontend** | React, JavaScript, HTML5, CSS3 | ████████░░ 80% |
+| **3D Graphics** | Three.js, WebGL, OGL, Shaders | ███████░░░ 70% |
+| **Animation** | Framer Motion, GSAP | ████████░░ 80% |
+| **AI Integration** | Groq AI, OpenAI, API Integration | ███████░░░ 70% |
+| **Performance** | Optimization, Lazy Loading | ████████░░ 80% |
+
+</div>
+
+---
+
 ## 📊 Analytics
 
 <div align="center">
@@ -97,14 +136,12 @@ A cutting-edge portfolio featuring an intelligent AI assistant and real-time flu
 
 <div align="center">
 
-### Let's Collaborate!
-I'm open to freelance work and bold ideas.
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwiky@example.com)
+### 💡 Fun Fact
+*"I believe the web is the ultimate creative canvas."*
 
 <br />
 
-*"The best way to predict the future is to invent it."*
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwiky@example.com)
 
 <br />
 

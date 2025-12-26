@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dwiky-candra)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dky_cdr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=framer&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=framer&logoColor=white)](https://dwiky-candra.vercel.app)
 
 </div>
 </div>
@@ -38,7 +38,7 @@ I'm a developer who lives at the intersection of **design, physics, and code**. 
 ## 🚀 Featured Projects
 
 ### 🌌 Interactive 3D Portfolio
-**[ [View Demo](#) ]** • **[ [Source Code](https://github.com/dkycdr/portfolio) ]**
+**[ [View Demo](#) ]** • **[ [Source Code](https://dwiky-candra.vercel.app) ]**
 
 A cutting-edge portfolio featuring an intelligent AI assistant and real-time fluid simulations.
 
@@ -105,19 +105,6 @@ class Developer {
 
 ---
 
-## 🏅 Skills Matrix
-
-<div align="center">
-
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **Frontend** | React, JavaScript, HTML5, CSS3 | ████████░░ 80% |
-| **3D Graphics** | Three.js, WebGL, OGL, Shaders | ███████░░░ 70% |
-| **Animation** | Framer Motion, GSAP | ████████░░ 80% |
-| **AI Integration** | Groq AI, OpenAI, API Integration | ███████░░░ 70% |
-| **Performance** | Optimization, Lazy Loading | ████████░░ 80% |
-
-</div>
 
 ---
 
@@ -141,10 +128,11 @@ class Developer {
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwiky@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwikycandra005@gmail.com)
 
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=dkycdr&color=6366f1&style=flat-square&label=Profile+Views" />
 
 </div>
+

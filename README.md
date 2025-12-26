@@ -69,6 +69,7 @@ A cutting-edge portfolio featuring an intelligent AI assistant and real-time flu
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
 ### 🎨 Creative & 3D
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -135,4 +136,5 @@ class Developer {
 <img src="https://komarev.com/ghpvc/?username=dkycdr&color=6366f1&style=flat-square&label=Profile+Views" />
 
 </div>
+
 
